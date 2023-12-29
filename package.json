@@ -1,0 +1,12 @@
+{
+  "name": "job_scrapper",
+  "version": "1.0.0",
+  "description": "discord_interface",
+  "main": "index.js",
+  "repository": "https://github.com/BinniesLite/discord_scrapper.git",
+  "author": "quan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
